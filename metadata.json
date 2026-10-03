@@ -1,0 +1,6 @@
+{
+  "name": "Comfortworld Fundraiser",
+  "description": "Official fundraiser platform for Comfortworld: Where Comfort Meets Confidence. Supporting brand launch, production stock, custom accessories, packaging, and logistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
